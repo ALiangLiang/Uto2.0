@@ -1,0 +1,11 @@
+{
+    "example": {
+        "url": "/*?fields=posts.limit(100)",
+        "token": "*",
+        "nowid": "",
+        "id": "*"
+    },
+    "sendchannel": {
+        "example": []
+    }
+}
